@@ -1,0 +1,21 @@
+{
+  "name": "AlyssonGarros",
+  "homepage": "https://github.com/AlyssonGarros/site-particular",
+  "authors": [
+    "Alysson Garros <alysson.ag@hotmail.com>"
+  ],
+  "description": "Site pessoal com portifólio de trabalho",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
